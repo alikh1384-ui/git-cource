@@ -3,3 +3,8 @@ this is a test
 
 
 firts commit
+
+
+
+the bug has repaired.
+a bug has happened.
