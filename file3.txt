@@ -10,3 +10,4 @@ the bug has repaired.
 a bug has happened.
 
 before git diff
+git restore.
