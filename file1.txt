@@ -1,8 +1,0 @@
-this is a test
-
-
-this is a second commit.
-this will be the second commit  on bugfix2.
-
-
-we get back to master branch.
